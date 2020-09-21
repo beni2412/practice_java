@@ -18,7 +18,7 @@ public class App
 
 	LOG.info("Holaa");
 	LOG.info("Hiii");
-	LOG.info("master1");
+	LOG.info("master12");
         LOG.info("Hello World");
     }
 }

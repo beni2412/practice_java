@@ -18,7 +18,7 @@ public class App
 
 	LOG.info("Holaa");
 	LOG.info("Hiii");
-	LOG.info("nva chan");
+	LOG.info("def");
         LOG.info("Hello World");
     }
 }

@@ -17,7 +17,7 @@ public class App
 	LOG.info("Auf wiedersehen");
 
 	LOG.info("Holaa");
-	LOG.info("Hi");
+	LOG.info("Hiii");
 
         LOG.info("Hello World");
     }

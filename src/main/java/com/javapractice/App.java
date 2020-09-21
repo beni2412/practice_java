@@ -13,6 +13,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 	LOG.info("Holaa");
+	LOG.info("Hi");
         LOG.info("Hello World");
     }
 }
